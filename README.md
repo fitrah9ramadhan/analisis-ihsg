@@ -12,6 +12,6 @@
 
 ![ihsg_return_train_test](/pic/ihsg_return_train_test.png)
 
-![feture_importance](/pic/feture_importance.png)
+![feture_importance](/pic/feature_importance.png)
 
 ![prediction](/pic/prediction.png)
